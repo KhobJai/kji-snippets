@@ -1,0 +1,2 @@
+# Caps Lock to to CTRL, CTRL to Hyper.
+setxkbmap -option "ctrl:swapcaps_hyper"
